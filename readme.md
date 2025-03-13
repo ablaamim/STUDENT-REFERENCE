@@ -2,7 +2,7 @@
 
 </p>
 <p align="center">
-<img src="https://i.programmerhumor.io/2023/05/programmerhumor-io-debugging-memes-testing-memes-706268e0cdcfcb4.jpg" width="500">
+<img src="https://github.com/ablaamim/STUDENT-REFERENCE/blob/master/srcs/cc.jpg" width="500">
 <p/>
 
 ---
@@ -369,7 +369,7 @@ int		ft_strlen(char *str)
 }
 
 int main(void) {
-	int i = ft_strlen("1337 is the answer");	// declare i, call the function ft_strlen, and assign its output to i
+	int i = ft_strlen("Hello World!");	// declare i, call the function ft_strlen, and assign its output to i
 	printf("%d", i); // remember that it is forbidden to submit a function with printf during the Piscine
 	return 0;
 }
@@ -384,7 +384,7 @@ Then print a whole string by recoding the libc function 'puts':
 
 int main(void)
 {
-	puts("1337 is the answer");
+	puts("Hello World!");
 	return 0;
 }
 ```
