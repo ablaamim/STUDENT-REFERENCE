@@ -2,7 +2,7 @@
 
 </p>
 <p align="center">
-<img src="https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/159025572_1135466283557135_3615568362222306434_n.jpg" width="500">
+<img src="https://i.programmerhumor.io/2023/05/programmerhumor-io-debugging-memes-testing-memes-706268e0cdcfcb4.jpg" width="500">
 <p/>
 
 ---
@@ -19,9 +19,6 @@
 
 ## Summary
 
-
-- <a href="#1337">1337</a>
-- <a href="#libft">libft</a>
 - <a href="#coding">Coding</a>
 - <a href="#Webdev">Webdev</a>
 - <a href="#Robotics">Robotics</a>
@@ -33,18 +30,6 @@
 
 ---
 
-## 1337
-
----
-
-</p>
-<p align="center">
-<img src="https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/accretion-disk-black-hole-diagram-NASA.png" width="500">
-<p/>
-
-----
-
-There are no teachers but a pedagogic team that ensure that students do not harm the material and provide a cursus syllabus to follow. What is learned is hence mainly achieved through peer-to-peer project review and [RTFM](https://en.wikipedia.org/wiki/RTFM).
 
 </p>
 <p align="center">
@@ -53,51 +38,13 @@ There are no teachers but a pedagogic team that ensure that students do not harm
 
 ---
 
-### 3 Mandatory tips to succeed in 1337 :
+### 3 Mandatory tips to succeed at programming:
 
-> 1 - WORK AND DUNNOT LET THE BLACK HOLE ABSORB YOU.
+> 1 - WORK.
 
-> 2 - WORK MORE, I MEAN YOU HAVE TO WORK EVEN MOAR!
+> 2 - WORK MORE, I MEAN YOU HAVE TO WORK EVEN MORE!
 
 > 3 - RTFM.
-
----
-
-## Libft
-
----
-
-### :coffee: Artistic view of your LIBFT :
-
----
-
-</p>
-<p align="center">
-<img src="https://img.atlasobscura.com/IlHPWmDNPHFfiKhpDeqy1hHC2i8x5Iq1m7HBj3KJRLU/rt:fit/w:1200/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iZjdj/OWVhMzQyOTU3OTNm/YWZfbGlicmFyeS5q/cGc.jpg" width="800">
-</p>
-
----
-
-### Subject :
-
----
-
-:book: [ENGLISH PDF](https://github.com/alaamimi/LIBFT-42/blob/main/en.subject.pdf)
-
----
-
-### :information_source: What exactly is LIBFT ?
-
----
-
-</p>
-<p align="center">
-<img src="https://github.com/ablaamim/libft/blob/main/ressources/Libft.png" width="500">
-</p>
-
----
-
->This project aims to code a C library regrouping usual functions that you’ll be allowed to use in all your other projects.
 
 ---
 
